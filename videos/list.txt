@@ -1,0 +1,5 @@
+file 'C:\Users\D3zhu\Desktop\RecoSign\videos\S.mp4'
+file 'C:\Users\D3zhu\Desktop\RecoSign\videos\A.mp4'
+file 'C:\Users\D3zhu\Desktop\RecoSign\videos\L.mp4'
+file 'C:\Users\D3zhu\Desktop\RecoSign\videos\U.mp4'
+file 'C:\Users\D3zhu\Desktop\RecoSign\videos\T.mp4'
